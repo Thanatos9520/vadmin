@@ -13,7 +13,9 @@
     "axios": "^0.24.0",
     "react": "17.0.2",
     "react-native": "0.66.4",
-    "react-native-table-component": "^1.2.1"
+    "react-native-table-component": "^1.2.1",
+    "react-table": "^6.11.5",
+    "react-table-v6": "^6.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
